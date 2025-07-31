@@ -1,6 +1,6 @@
-# CVRP-CEC - Capacitated Vehicle Routing Problem
+# Federated Inspired Hyperparameter Aggregation for the Capacitated Vehicle Routing Problem
 
-Este projeto implementa um algoritmo genético híbrido (HGS) para resolver o problema de roteamento de veículos com capacidade limitada (CVRP).
+Este projeto implementa um algoritmo genético híbrido (HGS) para resolver o problema de roteamento de veículos com capacidade limitada (CVRP) em um contexto frenemy e o artigo foi apresentado na FUSION 2025.
 
 ## 📋 Pré-requisitos
 
