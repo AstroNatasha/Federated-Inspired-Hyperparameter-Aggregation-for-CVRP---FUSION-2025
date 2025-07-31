@@ -1,0 +1,15 @@
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/Golden_5.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n439-k37.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n536-k96.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n106-k14.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n331-k15.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n143-k7.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n204-k19.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n701-k44.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/CMT13.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n401-k29.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n895-k37.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n613-k62.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n233-k16.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/X-n916-k207.vrp
+/Users/jvmaues/Documents/Estudos/Mestrado/optimization/HGS-CVRP/Instances/CVRP/Golden_8.vrp

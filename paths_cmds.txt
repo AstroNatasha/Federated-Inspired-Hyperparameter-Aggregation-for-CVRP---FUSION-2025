@@ -1,0 +1,13 @@
+## path de onde estão os examplos do irace
+
+"/Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/library/irace"
+
+## comando para testar
+
+cp $IRACE_HOME/examples/acotsp/* ./tuning/
+
+cp /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/library/irace/examples/acotsp/* ./tuning/
+
+# $IRACE_HOME is the installation directory of irace.
+
+"/Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/library/irace/bun/irace"

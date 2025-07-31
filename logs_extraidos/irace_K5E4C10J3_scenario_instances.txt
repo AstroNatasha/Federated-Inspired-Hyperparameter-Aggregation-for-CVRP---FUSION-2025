@@ -1,0 +1,10 @@
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n167-k10.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n561-k42.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n876-k59.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n613-k62.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/CMT13.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n801-k40.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n384-k52.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/Golden_16.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n351-k40.vrp
+/home/administrador/giron/labotim/HGS-CVRP/Instances/CVRP/X-n856-k95.vrp

@@ -1,0 +1,270 @@
+Executando irace com o arquivo de instâncias: /home/administrador/giron/labotim/HGS-CVRP/irace_files_HGS/J1_RUN/Part2/K7E7C10.txt
+# 2025-01-27 22:02:26 -03: Reading parameter file '/home/administrador/giron/labotim/HGS-CVRP/irace_files_HGS/parameters.txt'.
+# 2025-01-27 22:02:26 -03: Initialization
+# Elitist race
+# Elitist new instances: 1
+# Elitist limit: 2
+# nbIterations: 5
+# minNbSurvival: 1
+# nbParameters: 10
+# seed: 1234
+# confidence level: 0.95
+# budget: 100
+# mu: 5
+# deterministic: FALSE
+
+# 2025-01-27 22:02:26 -03: Iteration 1 of 5
+# experimentsUsedSoFar: 0
+# remainingBudget: 100
+# currentBudget: 20
+# nbConfigurations: 3
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          1|          3|          1|     25569.00000|          3|00:00:20|   NA|  NA|    NA|
+|x|          2|          3|          1|     28349.00000|          6|00:00:20|+0.86|0.93|0.2489|
+|x|          3|          3|          1|     19187.66667|          9|00:00:20|+0.43|0.62|0.3052|
+|x|          4|          3|          1|     25497.75000|         12|00:00:20|-0.12|0.16|0.5099|
+|=|          5|          3|          1|     25610.40000|         15|00:00:20|-0.03|0.17|0.5358|
+|=|          6|          3|          1|     21478.66667|         18|00:00:20|-0.03|0.14|0.4461|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:           1    mean value:      21478.66667
+Description of the best-so-far configuration:
+  .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+1    1          500         25 25     60       5       8
+  nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+1                     100            0.4             1.4            0.75
+  .PARENT.
+1       NA
+
+# 2025-01-27 22:04:27 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+  nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+1          500         25 25     60       5       8                     100
+  targetFeasible penaltyIncrease penaltyDecrease
+1            0.4             1.4            0.75
+# 2025-01-27 22:04:27 -03: Iteration 2 of 5
+# experimentsUsedSoFar: 18
+# remainingBudget: 82
+# currentBudget: 20
+# nbConfigurations: 3
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          7|          3|          1|     14971.00000|          3|00:00:20|   NA|  NA|    NA|
+|x|          4|          3|          4|     29449.50000|          5|00:00:20|+0.00|0.50|0.3333|
+|x|          5|          3|          1|     28486.66667|          7|00:00:20|+0.25|0.50|0.3292|
+|x|          1|          3|          1|     27757.25000|          9|00:00:20|+0.11|0.33|0.5653|
+|=|          3|          3|          1|     22378.80000|         11|00:00:20|+0.08|0.27|0.4392|
+|=|          6|          3|          1|     18785.66667|         13|00:00:20|+0.07|0.22|0.3594|
+|=|          2|          3|          1|     20549.00000|         15|00:00:20|+0.12|0.25|0.3740|
+|=|          8|          3|          1|     21437.12500|         18|00:00:20|+0.11|0.23|0.4031|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:           1    mean value:      21437.12500
+Description of the best-so-far configuration:
+  .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+1    1          500         25 25     60       5       8
+  nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+1                     100            0.4             1.4            0.75
+  .PARENT.
+1       NA
+
+# 2025-01-27 22:07:07 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+  nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+1          500         25 25     60       5       8                     100
+  targetFeasible penaltyIncrease penaltyDecrease
+1            0.4             1.4            0.75
+# 2025-01-27 22:07:07 -03: Iteration 3 of 5
+# experimentsUsedSoFar: 36
+# remainingBudget: 64
+# currentBudget: 21
+# nbConfigurations: 3
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          9|          3|          1|     13332.00000|          3|00:00:20|   NA|  NA|    NA|
+|x|          5|          3|          1|     19696.50000|          5|00:00:20|+0.00|0.50|0.3333|
+|x|          4|          3|          7|     27875.33333|          7|00:00:20|-0.25|0.17|0.6011|
+|x|          2|          3|          1|     28737.50000|          9|00:00:20|+0.00|0.25|0.5169|
+|=|          3|          3|          1|     23163.00000|         11|00:00:20|+0.00|0.20|0.4101|
+|=|          6|          3|          1|     19439.16667|         13|00:00:20|+0.00|0.17|0.3401|
+|=|          8|          3|          7|     20578.71429|         15|00:00:20|+0.00|0.14|0.3593|
+|=|          7|          3|          7|     19877.75000|         17|00:00:20|+0.00|0.12|0.3171|
+|=|          1|          3|          7|     20510.11111|         19|00:00:20|+0.08|0.18|0.3214|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:           7    mean value:      20510.11111
+Description of the best-so-far configuration:
+  .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+7    7          500         15 25     40       5       8
+  nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+7                     100            0.4             1.4            0.75
+  .PARENT.
+7        1
+
+# 2025-01-27 22:10:07 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+  nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+7          500         15 25     40       5       8                     100
+  targetFeasible penaltyIncrease penaltyDecrease
+7            0.4             1.4            0.75
+# 2025-01-27 22:10:07 -03: Iteration 4 of 5
+# experimentsUsedSoFar: 55
+# remainingBudget: 45
+# currentBudget: 22
+# nbConfigurations: 3
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         10|          3|          7|     68934.00000|          3|00:00:20|   NA|  NA|    NA|
+|x|          7|          3|          7|     41952.50000|          5|00:00:20|+0.00|0.50|0.3333|
+|x|          3|          3|          7|     28256.66667|          7|00:00:20|+0.00|0.33|0.2222|
+|x|          6|          3|          7|     21397.50000|          9|00:00:20|+0.00|0.25|0.1667|
+|=|          2|          3|          9|     23370.20000|         11|00:00:20|-0.12|0.10|0.3206|
+|=|          1|          3|          7|     23716.83333|         13|00:00:20|+0.00|0.17|0.3673|
+|=|          9|          3|          7|     22233.28571|         15|00:00:20|+0.00|0.14|0.3100|
+|=|          4|          3|          7|     24977.62500|         17|00:00:20|-0.11|0.03|0.3658|
+|=|          8|          3|          7|     25268.77778|         19|00:00:20|-0.05|0.07|0.3793|
+|=|          5|          3|          7|     25352.50000|         21|00:00:20|-0.04|0.07|0.4264|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:           7    mean value:      25352.50000
+Description of the best-so-far configuration:
+  .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+7    7          500         15 25     40       5       8
+  nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+7                     100            0.4             1.4            0.75
+  .PARENT.
+7        1
+
+# 2025-01-27 22:13:27 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+  nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+7          500         15 25     40       5       8                     100
+  targetFeasible penaltyIncrease penaltyDecrease
+7            0.4             1.4            0.75
+# 2025-01-27 22:13:27 -03: Iteration 5 of 5
+# experimentsUsedSoFar: 76
+# remainingBudget: 24
+# currentBudget: 24
+# nbConfigurations: 3
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         11|          3|          7|     25569.00000|          3|00:00:20|   NA|  NA|    NA|
+|x|          8|          3|          7|     26583.50000|          5|00:00:20|+0.86|0.93|0.2897|
+|x|          4|          3|          7|     32451.66667|          7|00:00:20|+0.73|0.82|0.3173|
+|x|          5|          3|         10|     30826.00000|          9|00:00:20|+0.76|0.82|0.3643|
+|-|         10|          2|          7|     38479.00000|         11|00:00:20|-0.25|0.00|0.5000|
+|=|          6|          2|          7|     32202.50000|         12|00:00:20|-0.20|0.00|0.4000|
+|=|          1|          2|          7|     31254.85714|         13|00:00:20|-0.17|0.00|0.3333|
+|=|          3|          2|          7|     27456.12500|         14|00:00:20|-0.14|0.00|0.2857|
+|=|          7|          2|          7|     26068.88889|         15|00:00:20|-0.12|0.00|0.2500|
+|=|          2|          2|         10|     26571.60000|         16|00:00:20|-0.09|0.02|0.2722|
+|=|          9|          2|         10|     25368.00000|         17|00:00:20|-0.08|0.02|0.2455|
+|=|         12|          2|         10|     25845.91667|         19|00:00:20|-0.03|0.06|0.2576|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          10    mean value:      25845.91667
+Description of the best-so-far configuration:
+   .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+10   10          500         15 25     20       5       8
+   nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+10                     100            0.4             1.4            0.75
+   .PARENT.
+10        7
+
+# 2025-01-27 22:17:28 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+10          500         15 25     20       5       8                     100
+   targetFeasible penaltyIncrease penaltyDecrease
+10            0.4             1.4            0.75
+# Total CPU user time: 1900.392, CPU sys time: 1.312, Wall-clock time: 901.383
+# 2025-01-27 22:17:28 -03: Starting post-selection:
+# Configurations selected: 10, 7, 8.
+# Pending instances: 0, 0, 2.
+# Seed: 1234
+# Configurations: 3
+# Available experiments: 5
+# minSurvival: 1
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|.|          3|          3|          7|     865.0000000|          0|00:00:00|   NA|  NA|    NA|
+|.|          6|          3|          7|     842.5000000|          0|00:00:00|+1.00|1.00|0.0000|
+|.|         10|          3|          7|     23539.66667|          0|00:00:00|+0.00|0.33|0.2222|
+|.|          2|          3|          7|     25440.25000|          0|00:00:00|-0.17|0.12|0.4212|
+|.|          9|          3|          7|     23018.60000|          0|00:00:00|-0.12|0.10|0.3194|
+|=|         12|          3|         10|     24384.50000|          1|00:00:20|+0.00|0.17|0.3619|
+|.|          4|          3|         10|     27202.00000|          1|00:00:00|+0.12|0.25|0.3598|
+|.|          5|          3|         10|     27051.50000|          1|00:00:00|+0.20|0.30|0.3632|
+|.|          8|          3|         10|     27115.77778|          1|00:00:00|+0.02|0.13|0.4501|
+|=|         11|          3|         10|     26961.10000|          2|00:00:20|+0.07|0.16|0.4549|
+|.|          1|          3|         10|     26834.54545|          2|00:00:00|+0.11|0.19|0.4497|
+|.|          7|          3|         10|     25845.91667|          2|00:00:00|+0.10|0.18|0.4152|
+|=|         13|          3|         10|     25983.23077|          5|00:00:20|+0.03|0.10|0.4652|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          10    mean value:      25983.23077
+Description of the best-so-far configuration:
+   .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+10   10          500         15 25     20       5       8
+   nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+10                     100            0.4             1.4            0.75
+   .PARENT.
+10        7
+
+# 2025-01-27 22:18:28 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   nbIterTraces nbGranular mu lambda nbElite nbClose nbIterPenaltyManagement
+10          500         15 25     20       5       8                     100
+   targetFeasible penaltyIncrease penaltyDecrease
+10            0.4             1.4            0.75
+# Total CPU user time: 2000.418, CPU sys time: 1.364, Wall-clock time: 961.449
+   .ID. nbIterTraces nbGranular mu lambda nbElite nbClose
+10   10          500         15 25     20       5       8
+   nbIterPenaltyManagement targetFeasible penaltyIncrease penaltyDecrease
+10                     100            0.4             1.4            0.75
+   .PARENT. .RANK. .WEIGHT.
+10        7     23        1
+Execução concluída com sucesso para o arquivo: /home/administrador/giron/labotim/HGS-CVRP/irace_files_HGS/J1_RUN/Part2/K7E7C10.txt
